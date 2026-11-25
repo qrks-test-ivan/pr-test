@@ -4,4 +4,4 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - run: sleep 90 && echo ok
+      - run: echo ok
